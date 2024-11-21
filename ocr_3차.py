@@ -15,8 +15,8 @@ import os
 import csv
 import re
 
-api_url = 'https://qsf54xe2bm.apigw.ntruss.com/custom/v1/24922/752248f4ef47186d702b37d4e586420160ac6cf3e46ac1fe4d56b181017495d9/general'
-secret_key = 'QUF0alJ4a3VrRWZzRUZUYWJKRlVrVHlVd0l2bXlUS3o='
+api_url = ''
+secret_key = ''
 
 # CSV 파일에서 블러링을 적용할 글자 목록 읽기
 def read_text_to_blur_from_csv(csv_file):
